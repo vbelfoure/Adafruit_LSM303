@@ -1,6 +1,6 @@
 {
-  "name" : "Adafruit LSM303DLHC",
-  "version" : "1.0.0",
+  "name" : "Adafruit_LSM303",
+  "version" : "1.0.1",
   "author" : "Adafruit",
   "maintainer" : "Adafruit <info@adafruit.com>",
   "sentence" : "Unified sensor driver for Adafruit's LSM303 Breakout (Accelerometer + Magnetometer)",
