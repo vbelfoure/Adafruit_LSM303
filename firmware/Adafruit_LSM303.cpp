@@ -22,7 +22,7 @@
 
 #include <limits.h>
 
-#include "Adafruit_LSM303_U.h"
+#include "Adafruit_LSM303.h"
 
 /* enabling this #define will enable the debug print blocks
 #define LSM303_DEBUG
