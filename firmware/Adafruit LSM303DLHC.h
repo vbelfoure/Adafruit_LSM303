@@ -15,12 +15,6 @@
 #ifndef __LSM303_H__
 #define __LSM303_H__
 
-#if (ARDUINO >= 100)
- #include "Arduino.h"
-#else
- #include "WProgram.h"
-#endif
-
 #include <Adafruit_Sensor.h>
 #ifdef __AVR_ATtiny85__
   #include "TinyWireM.h"
